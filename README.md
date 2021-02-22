@@ -1,4 +1,4 @@
-# VFSforGit.WWW 
+# VFSforGit.WWW
 
 This is the [web site for VFS for Git](https://vfsforgit.org/), the technology
 that powers Git to handle repositories at Microsoft scale.
@@ -23,4 +23,3 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
-

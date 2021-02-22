@@ -46,6 +46,7 @@
   color: #fff;
   margin-top: 48px;
   padding-bottom: 128px;
+  text-align: center;
 }
 #vfsforgit-footer a {
   color: #fff;
@@ -66,7 +67,7 @@
   padding: 12px 0;
 }
 #vfsforgit-attribution img {
-  display: inline;
+  display: inline-block;
   height: 1.25em;
   vertical-align: text-bottom;
 }
@@ -77,9 +78,9 @@
 
 .vfsforgit-videoWrapper {
   position: relative;
-  width: 390px;
+  overflow: hidden;
   height: 220px;
-  margin: 25px 0 0 50px;
+  padding-top: 56.25%;
 }
 .vfsforgit-videoWrapper iframe {
   position: absolute;
